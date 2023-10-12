@@ -65,7 +65,55 @@
 
 
 
-console.log("swaira")
+//  console.log("swaira")
+
+// let num1=8
+// let num2=5
+// if(num1>num2){
+//     console.log(num1+num2)
+
+// }
+// console.log(!num1>num2)
+
+
+// function
+
+// const sum1=(a,b)=>{
+//     console.log("chaitanya")
+//     console.log()
+// }
+// sum1()
+
+// const greeting=(greet="good day")=>{
+//     console.log(`hi ${greet}`)
+// }
+// greeting()
+
+// caluculator
+
+// const caluculator=(num1,num2,op)=>{
+//     if(op=="+"){
+//         console.log(num1+num2)}
+//              else if(op=="-"){
+//                 console.log(num1-num2)
+//             }else if(op=="*"){
+//                 console.log(num1*num2)
+//             }else if(op=="/"){
+//                 console.log(num1/num2)
+//             }else if(op=="%"){
+//                 console.log(num1%num2)
+//             }
+//         }
+
+    
+//     caluculator(5,6,"+")
+//     // caluculator(5,6,"-")
+//     // caluculator(5,6,"*")
+//     // caluculator(30,6,"/")
+//     // caluculator(5,6,"%")
+    
+
+
 
 
 
