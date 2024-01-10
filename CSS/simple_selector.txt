@@ -1,0 +1,22 @@
+selectors
+with id selector
+#id1{
+    prop:val:
+}
+with class selector ki
+.class1{
+    prop:val:
+}
+all selectors ki
+*{
+    prop:val:
+}
+with element
+h1{
+    prop:val:
+}
+selects only p elements with classname=class1
+p.class1{
+    prop:val:
+
+}
