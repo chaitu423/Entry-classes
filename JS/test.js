@@ -111,9 +111,26 @@
 //     // caluculator(5,6,"*")
 //     // caluculator(30,6,"/")
 //     // caluculator(5,6,"%")
-    
+
+// const arr1=[1,2,3];
+// const arr2=[4,5,6] ;
+// console.log("without",arr1)   
+// console.log("with spread operator",...arr1)
+// console.log(...arr1,...arr2)
 
 
+// rest operator use only in functions
+
+// function sum(...numbers) {
+//     console.log(number)
+//     let total = 0;
+//     for (const num of numbers) {
+//         total += num;
+//     }
+//     return total;
+// }
+// const number=[1,2,3,4]
+// console.log(sum(...number));
 
 
 
